@@ -1,1 +1,1 @@
-# lasthegelian.github.io
+# lasthegelian
