@@ -1,0 +1,83 @@
+body {
+    font-family: Hack,DejaVu Sans Mono,Bitstream Vera Sans Mono,Courier,Courier New,monospace,serif;
+    line-height: 1.5rem;
+    color: #ccc;
+    margin: auto;
+    max-width: 50em;
+    background-color: #000;
+}
+
+#page-title {
+    text-align: center;
+}
+
+#page-title h1 a, .post a {
+    color: #ff9800;
+    text-decoration: none;
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    border-bottom-color: #ff2e88;
+}
+
+a {
+    text-decoration: none;
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    border-bottom-color: #ff2e88;
+}
+
+body a:link {
+    color: #ff9800;
+}
+
+a:visited {
+    color: #ff9800;
+}
+
+a:hover{
+    background-color:#ff2e88;
+    color:#fff} 
+
+#page-title a:hover, .post a:hover {
+    background-color:#ff2e88;
+    color:#fff
+   
+}
+
+.date-time-title {
+    display: inline-block;
+}
+
+#posts {
+    padding-left: 2em;
+}
+
+.post {
+    padding-left: 1em;
+}
+
+.blog-post {
+    padding-left: 1em;
+}
+
+/*
+     FILE ARCHIVED ON 06:52:36 Nov 15, 2018 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 21:57:27 Jun 15, 2022.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 229.264
+  exclusion.robots: 0.258
+  exclusion.robots.policy: 0.248
+  cdx.remote: 0.113
+  esindex: 0.01
+  LoadShardBlock: 136.461 (3)
+  PetaboxLoader3.resolve: 150.979 (3)
+  PetaboxLoader3.datanode: 67.58 (4)
+  CDXLines.iter: 18.967 (3)
+  load_resource: 131.904
+*/
